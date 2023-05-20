@@ -19,7 +19,7 @@ class Alumnos extends Conexion{
         $this->alumno_id = $args['id'] ?? null;
         $this->alumno_nombre = $args['alumno_nombre'] ?? '';
         $this->alumno_apellido = $args['alumno_apellido'] ?? '';
-        $this->alumno_fecha_naci = $args['alumno_fecha_nacimiento'] ?? '';
+        $this->alumno_fecha_naci = $args['alumno_fecha_naci'] ?? '';
         $this->alumno_telefono = $args['alumno_telefono'] ?? '';
         $this->alumno_correo = $args['alumno_correo'] ?? '';
 

@@ -1,7 +1,3 @@
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -31,7 +27,7 @@ error_reporting(E_ALL);
                 <div class="row mb-3">
                     <div class="col">
                         <label for="alumno_fecha_naci">Fecha de nacimiento</label>
-                        <input type="text" name="alumno_fecha_naci" id="alumno_fecha_naci" class="form-control">
+                        <input type="text" name="alumno_fecha_naci" id="alumno_fecha_naci" class="form-control" placeholder="ESCRIBA SU FECHA EJ. 07/05/1999">
                     </div>
                 </div>
                 <div class="row mb-3">
