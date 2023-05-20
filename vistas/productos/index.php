@@ -15,13 +15,13 @@
                 <div class="row mb-3">
                     <div class="col">
                         <label for="alumno_nombre">Nombre del alumno</label>
-                        <input type="text" name="alumno_nombre" id="alumno_nombre" class="form-control">
+                        <input type="text" name="alumno_nombre" id="alumno_nombre" class="form-control" placeholder="INGRESE UN NOMBRE, EJ; BRIAN">
                     </div>
                 </div>
                 <div class="row mb-3">
                     <div class="col">
                         <label for="alumno_apellido">Apellido del alumno</label>
-                        <input type="text" name="alumno_apellido" id="alumno_apellido" class="form-control">
+                        <input type="text" name="alumno_apellido" id="alumno_apellido" class="form-control" placeholder="INGRESE UN APELLIDO, EJ; MARIN">
                     </div>
                 </div>
                 <div class="row mb-3">
@@ -33,13 +33,13 @@
                 <div class="row mb-3">
                     <div class="col">
                         <label for="alumno_telefono">Telefono</label>
-                        <input type="number" name="alumno_telefono" id="alumno_telefono" class="form-control">
+                        <input type="number" name="alumno_telefono" id="alumno_telefono" class="form-control" placeholder="INGRESE SU NUMERO DE TELEFONO EJ; 50487861">
                     </div>
                 </div>
                 <div class="row mb-3">
                     <div class="col">
                         <label for="alumno_correo">Correo eléctronico</label>
-                        <input type="mail" name="alumno_correo" id="alumno_correo" class="form-control">
+                        <input type="mail" name="alumno_correo" id="alumno_correo" class="form-control" placeholder="INGRESE SU CORREO ELECTRONICO EJ; brianmarin4@gmail.com">
                     </div>
                 </div>
                 <div class="row mb-3">
