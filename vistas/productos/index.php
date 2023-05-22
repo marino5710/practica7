@@ -9,7 +9,7 @@
 </head>
 <body>
     <header class="bg-dark text-white text-center p-4">
-    <h1 class="display-4">Comando de Informática</h1>
+    <h1 class="display-4">Comando de Informática y Tecnología</h1>
   </header>
     <div class="container bg-light">
         <h1 class="text-center">Formulario de Registro de Alumnos</h1>
@@ -54,7 +54,7 @@
         </div>
     </div>
     <footer class="bg-dark text-white text-center p-2">
-    <p> Comando de Informática.</p>
+    <p> Comando de Informática y Tecnología.</p>
   </footer>
 </body>
 </html>
